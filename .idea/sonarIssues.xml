@@ -3,6 +3,71 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$USER_HOME$/designpatterns_ws/java_design_patterns/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/designpatterns_ws/java_design_patterns/src/SingletonPattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/designpatterns_ws/java_design_patterns/src/main/SingletonPattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/designpatterns_ws/java_design_patterns/src/prototype/BasicCar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/designpatterns_ws/java_design_patterns/src/prototype/Ford.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/designpatterns_ws/java_design_patterns/src/prototype/Nano.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/designpatterns_ws/java_design_patterns/src/prototype/PrototypePattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/designpatterns_ws/java_design_patterns/src/prototype/model/BasicCar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/designpatterns_ws/java_design_patterns/src/prototype/model/Ford.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/designpatterns_ws/java_design_patterns/src/prototype/model/Nano.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/designpatterns_ws/java_design_patterns/src/singleton/Connector.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/designpatterns_ws/java_design_patterns/src/singleton/SingletonPattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/designpatterns_ws/java_design_patterns/src/singleton/model/Connector.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/README.md">
           <value>
             <set />
@@ -19,6 +84,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/demo/model/Person.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/topia_ws/hris-integration/src/main/java/com/topia/hris/workday/mapper/XsdToEmployeeMappingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/topia_ws/hris-integration/src/test/java/com/topia/hris/workday/mapper/XsdToEmployeeMappingServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/topia_ws/hris-integration/src/test/resources/workdayResponses/xml_to_employee/extractedEmployee.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/topia_ws/hris-integration/src/test/resources/workdayResponses/xml_to_employee/xmlOutput.xml">
           <value>
             <set />
           </value>
